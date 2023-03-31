@@ -1,6 +1,6 @@
 Name:		texlive-nevelok
 Version:	39029
-Release:	1
+Release:	2
 Summary:	LaTeX package for automatic definite articles for Hungarian
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nevelok
