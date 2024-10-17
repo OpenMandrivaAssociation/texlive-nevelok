@@ -3,7 +3,7 @@ Version:	39029
 Release:	2
 Summary:	LaTeX package for automatic definite articles for Hungarian
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nevelok
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nevelok
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nevelok.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nevelok.doc.r%{version}.tar.xz
